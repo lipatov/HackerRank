@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaIterator;
+package OOP.JavaIterator;
 
 import java.util.*;
 

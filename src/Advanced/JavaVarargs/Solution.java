@@ -1,11 +1,8 @@
-package DataStructure.Advanced.JavaVarargs;
+package Advanced.JavaVarargs;
 
 import java.io.*;
 import java.lang.reflect.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 class Add {
     void add(int... numbers) {

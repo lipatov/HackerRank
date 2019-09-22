@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaInstanceofKeyword;
+package OOP.JavaInstanceofKeyword;
 
 import java.util.*;
 

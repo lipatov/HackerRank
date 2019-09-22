@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaAbstractClass;
+package OOP.JavaAbstractClass;
 
 import java.util.Scanner;
 

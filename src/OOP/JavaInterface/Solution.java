@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaInterface;
+package OOP.JavaInterface;
 
 import java.util.*;
 

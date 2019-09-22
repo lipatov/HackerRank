@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaInheritance1;
+package OOP.JavaInheritance1;
 
 class Animal{
     void walk(){

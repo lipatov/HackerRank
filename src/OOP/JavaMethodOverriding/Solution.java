@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaMethodOverriding;
+package OOP.JavaMethodOverriding;
 
 class Sports {
 

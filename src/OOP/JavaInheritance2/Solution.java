@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaInheritance2;
+package OOP.JavaInheritance2;
 
 class Arithmetic {
     int add(int x, int y) {

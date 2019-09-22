@@ -1,4 +1,4 @@
-package DataStructure.Advanced.JavaSHA256;
+package Advanced.JavaSHA256;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

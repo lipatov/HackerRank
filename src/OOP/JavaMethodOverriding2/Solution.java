@@ -1,4 +1,4 @@
-package DataStructure.OOP.JavaMethodOverriding2;
+package OOP.JavaMethodOverriding2;
 
 class BiCycle {
     String define_me() {
